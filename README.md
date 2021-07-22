@@ -13,3 +13,7 @@ seqeval_1.py  针对标签体系为
 {"en": "I-content"}
 
 seqeval_2.py   针对大的数据集
+
+# Datasets
+train.txt - 原始数据
+pred.txt - 预测数据
