@@ -13,8 +13,8 @@ def getLabels(filename):
     return training_data
 
 
-list1 = getLabels('train--.txt')
-list2 = getLabels('pred--.txt')
+list1 = getLabels('train.txt')
+list2 = getLabels('pred.txt')
 # print(list1)
 # print(list2)
 
